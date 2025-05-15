@@ -48,5 +48,12 @@ Customer Behaviour Analysis provides insights into the member preferences, their
   <img src="images/image038.gif" width="48%" />
 </div>
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
+  <img src="images/image035.gif" style="width: 100%;" />
+  <img src="images/image036.gif" style="width: 100%;" />
+  <img src="images/image037.gif" style="width: 100%;" />
+  <img src="images/image038.gif" style="width: 100%;" />
+</div>
+
 Revenue distribution provides insight into the revenue generating components as well as members’ exercise patterns with the trainers.
 <img src="images/image039.gif" width="600"/>
