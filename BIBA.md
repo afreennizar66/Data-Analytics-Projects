@@ -2,9 +2,8 @@ This project utilizes Salesforce CRM and Tableau to analyse the business of a gy
 
 **Salesforce**
 
-<img src="images/image016.gif" width="600"/>
 The Contacts tab in Salesforce shows all existing customers associated with an account.
-
+<img src="images/image016.gif" width="600"/>
 
 <img src="images/image017.gif" width="600"/>
 Once all the member details are stored in the CRM, targeted marketing and campaigning can be carried out by segregating the members into different groups
