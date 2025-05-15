@@ -6,6 +6,7 @@ The Contacts tab in Salesforce shows all existing customers associated with an a
 <img src="images/image016.gif" width="600"/>
 
 Once all the member details are stored in the CRM, targeted marketing and campaigning can be carried out by segregating the members into different groups.
+
 <img src="images/image017.gif" width="600"/>
 
 The Leads tab is where potential customers for the business are stored.
