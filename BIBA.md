@@ -39,14 +39,6 @@ Member demographics provides insights into the member distribution across differ
 <img src="images/image034.gif" width="600"/>
 
 Customer Behaviour Analysis provides insights into the member preferences, their motivation, behaviour, and engagement patterns.
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-  <img src="images/image035.gif" width="48%" />
-  <img src="images/image036.gif" width="48%" />
-</div>
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-  <img src="images/image037.gif" width="48%" />
-  <img src="images/image038.gif" width="48%" />
-</div>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
   <img src="images/image035.gif" style="width: 100%;" />
