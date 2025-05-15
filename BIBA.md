@@ -39,11 +39,13 @@ Member demographics provides insights into the member distribution across differ
 <img src="images/image034.gif" width="600"/>
 
 Customer Behaviour Analysis provides insights into the member preferences, their motivation, behaviour, and engagement patterns.
-<div style="display: flex; gap: 10px;">
-  <img src="images/image035.gif" width="200" />
-  <img src="images/image036.gif" width="200" />
-  <img src="images/image037.gif" width="200" />
-  <img src="images/image038.gif" width="200" />
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="images/image035.gif" width="48%" />
+  <img src="images/image036.gif" width="48%" />
+</div>
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="images/image037.gif" width="48%" />
+  <img src="images/image038.gif" width="48%" />
 </div>
 
 Revenue distribution provides insight into the revenue generating components as well as members’ exercise patterns with the trainers.
