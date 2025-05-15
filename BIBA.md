@@ -3,6 +3,7 @@ This project utilizes Salesforce CRM and Tableau to analyse the business of a gy
 **Salesforce**
 
 The Contacts tab in Salesforce shows all existing customers associated with an account.
+
 <img src="images/image016.gif" width="600"/>
 
 Once all the member details are stored in the CRM, targeted marketing and campaigning can be carried out by segregating the members into different groups.
@@ -10,6 +11,7 @@ Once all the member details are stored in the CRM, targeted marketing and campai
 <img src="images/image017.gif" width="600"/>
 
 The Leads tab is where potential customers for the business are stored.
+
 <img src="images/image020.gif" width="600"/>
 
 Leads, once successful can be converted to contacts.
@@ -22,10 +24,12 @@ Opportunities drive sales. It represents a potential revenue or sales that we ar
 <img src="images/image025.gif" width="600"/>
 
 The Cases tab is where the queries or issues that the customers have raised will be recorded with details like the name of the customer, their details, their case details, the status of the case, and the priority.
+
 <img src="images/image027.gif" width="600"/>
 <img src="images/image028.gif" width="600"/>
 
 Campaigns are launched to increase marketing and sales reach; to all the customers by promoting a specific activity or product. The results of a campaign tell us how successful that product or activity was and how it drove sales.
+
 <img src="images/image029.gif" width="600"/>
 <img src="images/image030.gif" width="600"/>
 
@@ -36,6 +40,7 @@ Chatter in Salesforce is where the intercommunication between the employees occu
 **Tableau**
 
 Member demographics provides insights into the member distribution across different segments.
+
 <img src="images/image034.gif" width="600"/>
 
 Customer Behaviour Analysis provides insights into the member preferences, their motivation, behaviour, and engagement patterns.
@@ -48,4 +53,5 @@ Customer Behaviour Analysis provides insights into the member preferences, their
 </div>
 
 Revenue distribution provides insight into the revenue generating components as well as members’ exercise patterns with the trainers.
+
 <img src="images/image039.gif" width="600"/>
