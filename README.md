@@ -25,7 +25,7 @@ This GitHub profile features 7 Data Analytics/Machine Learning projects and a po
     - Skills: Trend analysis, Data Analysis, Geopolitical Insights, Plotly
     - Tools: Python, Pandas, Plotly, Scikit-learn
   
-6. **Gym Business Analytics & CRM Optimization (BIBA)** 
+6. **Gym Business Analytics & CRM Optimization (BIBA.md)** 
 This project applies business intelligence techniques to analyze a gym's operations using real-world data and CRM tools. It integrates Tableau for dashboards and Salesforce for customer relationship management.
     Project Highlights:
     - Analyzed Membership demographics, Customer Behaviour Analysis, and Revenue performance
