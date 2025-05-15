@@ -40,7 +40,7 @@ Member demographics provides insights into the member distribution across differ
 
 Customer Behaviour Analysis provides insights into the member preferences, their motivation, behaviour, and engagement patterns.
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 0;">
   <img src="images/image035.gif" style="width: 100%;" />
   <img src="images/image036.gif" style="width: 100%;" />
   <img src="images/image037.gif" style="width: 100%;" />
