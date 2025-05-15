@@ -1,4 +1,4 @@
-This GitHub profile features 5 Data Analytics and Machine Learning projects that showcase my skills in data collection, preprocessing, cleaning, visualization, modeling, and interpretation using real-world datasets.
+This GitHub profile features 7 Data Analytics and Machine Learning projects that showcase my skills in data collection, preprocessing, cleaning, visualization, modeling, and interpretation using real-world datasets.
 
  1. **In-Vehicle Coupon Recommendation Prediction (x23271728_coupon_prediction.py)**
     - Goal: Predict coupon acceptance using demographic and behavioral patterns.
@@ -37,6 +37,12 @@ This project applies business intelligence techniques to analyze a gym's operati
     - Tableau: Dashboard design and data visualization
     - Salesforce: CRM features (Leads, Opportunities, Cases, Contacts, Chatter, Email campaigning)
     - Excel / Python: Light preprocessing
+
+7. **Multi-Cancer prognosis prediction using gene expression (bc_pipeline_70_30_10.py)**
+    - Goal: Inestigate the effects of proteosomal and ion channel genes on cancer prognosis by developing a survival analysis model using gene expression.
+    - Skills: Survival analysis, Regression, Machine learning, Statistics, Cancer survival analysis
+    - Tools: Python, Pandas, Scikit-learn, R, ggplot
+
 
 Contact: 
 Email: afreennizar66@gmail.com
