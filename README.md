@@ -1,4 +1,4 @@
-This GitHub profile features 7 Data Analytics and Machine Learning projects that showcase my skills in data collection, preprocessing, cleaning, visualization, modeling, and interpretation using real-world datasets.
+This GitHub profile features 7 Data Analytics/Machine Learning projects and a portfolio that showcase my skills in data collection, preprocessing, cleaning, visualization, modeling, and interpretation using real-world datasets.
 
  1. **In-Vehicle Coupon Recommendation Prediction (x23271728_coupon_prediction.py)**
     - Goal: Predict coupon acceptance using demographic and behavioral patterns.
@@ -42,6 +42,11 @@ This project applies business intelligence techniques to analyze a gym's operati
     - Goal: Inestigate the effects of proteosomal and ion channel genes on cancer prognosis by developing a survival analysis model using gene expression.
     - Skills: Survival analysis, Regression, Machine learning, Statistics, Cancer survival analysis
     - Tools: Python, Pandas, Scikit-learn, R, ggplot
+
+
+**Portfolio**
+This portfolio has 8 projects that utilizes advanced SQL and excel queries and functions to derive insights from the data to drive business decisions.
+Link: https://drive.google.com/file/d/16Pd9HLF-rd7JGVtY_GYVDjn4I_j0SHTW/view?usp=sharing
 
 
 Contact: 
