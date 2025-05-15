@@ -1,6 +1,6 @@
 This GitHub profile features 7 Data Analytics/Machine Learning projects and a portfolio that showcase my skills in data collection, preprocessing, cleaning, visualization, modeling, and interpretation using real-world datasets.
 
- 1. **In-Vehicle Coupon Recommendation Prediction (x23271728_coupon_prediction.py) x23271728_coupon_prediction.py**
+ 1. **In-Vehicle Coupon Recommendation Prediction (x23271728_coupon_prediction.py) (./x23271728_coupon_prediction.py/)**
     - Goal: Predict coupon acceptance using demographic and behavioral patterns.
     - Skills: Classification, Exploratory Data Analysis, Decision Trees, kNN, Cross validation, Hyper parameter tuning
     - Tools: Python, Scikit-learn, Pandas, Matplotlib
